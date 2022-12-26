@@ -189,7 +189,12 @@ body {
 .team-item {
   background-color: var(--color-white);
 }
-
+.team-item .subtitle {
+  margin-top: 32px;
+}
+.team-item p {
+  margin-bottom: 32px;
+}
 img {
   display: block;
 }
@@ -243,6 +248,11 @@ img {
   line-height: 1.2;
   margin-top: 32px;
   margin-bottom: 8px;
+  margin-left: 16px;
+}
+.item-link p {
+  margin-left: 16px;
+  margin-bottom: 32px;
 }
 .section-portfolio {
   padding-top: 96px;
