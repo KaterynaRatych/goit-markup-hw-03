@@ -223,7 +223,7 @@ img {
 }
 .button-filter {
   color: var(--color-brand);
-  background-color: var(--color-accent);
+  background-color: var(--color-light);
   font-weight: 500;
   align-items: center;
   text-align: center;
